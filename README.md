@@ -266,7 +266,6 @@ Once data is added and accepted by the network, it is very difficult to change, 
 8. **Applications:**  
 Beyond cryptocurrencies, blockchain is used in supply chains, voting systems, identity management, and more.
 _______________________________________________________________________________________________________________________________________________________
-_______________________________________________________________________________________________________________________________________________________
 ## ROLE BASED PROMPTING:
 PROMPT:YOU ARE A BLOCKCHAIN EXPERT, GIVE ME AN ARTICLE ABOUT BASICS OF BLOCKCHAIN TECHNOLOGY IN 200 WORDS
 _______________________________________________________________________________________________________________________________________________________
@@ -316,7 +315,7 @@ Beyond cryptocurrency, blockchain enables smart contracts—self-executing code 
 **Scalability Challenges**
 
 Current limitations include transaction throughput constraints and storage requirements. Layer-2 solutions and sharding technologies are emerging to address these bottlenecks while maintaining decentralization and security—the fundamental blockchain trilemma.
-_______________________________________________________________________________________________________________________________________________________________________
+
 ### COPILOT:
 ## 🧩 Basics of Blockchain Technology (200 Words)
 
@@ -327,8 +326,8 @@ A blockchain is made up of blocks, each containing a list of transactions, a tim
 Before a new block is added, participants must validate transactions through a consensus mechanism such as Proof of Work or Proof of Stake. This ensures accuracy and prevents fraud without needing intermediaries.
 
 Although blockchain is widely associated with cryptocurrencies like Bitcoin, its applications extend far beyond digital money. Industries such as supply chain, healthcare, finance, and government use blockchain to enhance transparency, track assets, and automate processes through smart contracts. Overall, blockchain provides a secure, efficient, and trustworthy way to manage digital information in a rapidly evolving technological world.
-________________________________________________________________________________________________________________________________________________________________________
-________________________________________________________________________________________________________________________________________________________________________
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## RESULT:
 Considering the above prompts and outputs, ChatGPT provides the best summary in terms of accuracy,Coherance, Simplicity, Speed, User experience.
+👍
